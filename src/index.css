@@ -1,0 +1,8 @@
+.card-item{
+    transition: transform 0.3s ease; 
+}
+
+.card-item:hover {
+    transform: scale(1.05); 
+    z-index: 1; 
+  }
